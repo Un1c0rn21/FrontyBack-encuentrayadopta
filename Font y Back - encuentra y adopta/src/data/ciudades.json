@@ -1,0 +1,330 @@
+[
+    {
+        "value": "Bogotá",
+        "label": "Bogotá"
+    },
+    {
+        "value": "Timbío",
+        "label": "Timbío"
+    },
+    {
+        "value": "Medellín",
+        "label": "Medellín"
+    },
+    {
+        "value": "Cali",
+        "label": "Cali"
+    },
+    {
+        "value": "Barranquilla",
+        "label": "Barranquilla"
+    },
+    {
+        "value": "Cartagena",
+        "label": "Cartagena"
+    },
+    {
+        "value": "Bucaramanga",
+        "label": "Bucaramanga"
+    },
+    {
+        "value": "Palermo",
+        "label": "Palermo"
+    },
+    {
+        "value": "Cúcuta",
+        "label": "Cúcuta"
+    },
+    {
+        "value": "Soledad",
+        "label": "Soledad"
+    },
+    {
+        "value": "Villavicencio",
+        "label": "Villavicencio"
+    },
+    {
+        "value": "Pereira",
+        "label": "Pereira"
+    },
+    {
+        "value": "Valledupar",
+        "label": "Valledupar"
+    },
+    {
+        "value": "Ibagué",
+        "label": "Ibagué"
+    },
+    {
+        "value": "Soacha",
+        "label": "Soacha"
+    },
+    {
+        "value": "Santa Marta",
+        "label": "Santa Marta"
+    },
+    {
+        "value": "Montería",
+        "label": "Montería"
+    },
+    {
+        "value": "Bello",
+        "label": "Bello"
+    },
+    {
+        "value": "Manizales",
+        "label": "Manizales"
+    },
+    {
+        "value": "Buenaventura",
+        "label": "Buenaventura"
+    },
+    {
+        "value": "Pasto",
+        "label": "Pasto"
+    },
+    {
+        "value": "Neiva",
+        "label": "Neiva"
+    },
+    {
+        "value": "Palmira",
+        "label": "Palmira"
+    },
+    {
+        "value": "Zarzal",
+        "label": "Zarzal"
+    },
+    {
+        "value": "Armenia",
+        "label": "Armenia"
+    },
+    {
+        "value": "Popayán",
+        "label": "Popayán"
+    },
+    {
+        "value": "Sincelejo",
+        "label": "Sincelejo"
+    },
+    {
+        "value": "Itagüí",
+        "label": "Itagüí"
+    },
+    {
+        "value": "Floridablanca",
+        "label": "Floridablanca"
+    },
+    {
+        "value": "Envigado",
+        "label": "Envigado"
+    },
+    {
+        "value": "Tuluá",
+        "label": "Tuluá"
+    },
+    {
+        "value": "Tumaco",
+        "label": "Tumaco"
+    },
+    {
+        "value": "Barrancabermeja",
+        "label": "Barrancabermeja"
+    },
+    {
+        "value": "Uripa",
+        "label": "Uripa"
+    },
+    {
+        "value": "Zipaquirá",
+        "label": "Zipaquirá"
+    },
+    {
+        "value": "Florencia",
+        "label": "Florencia"
+    },
+    {
+        "value": "Turbo",
+        "label": "Turbo"
+    },
+    {
+        "value": "Dosquebradas",
+        "label": "Dosquebradas"
+    },
+    {
+        "value": "Ríohacha",
+        "label": "Ríohacha"
+    },
+    {
+        "value": "Ipiales",
+        "label": "Ipiales"
+    },
+    {
+        "value": "Tunja",
+        "label": "Tunja"
+    },
+    {
+        "value": "Girón",
+        "label": "Girón"
+    },
+    {
+        "value": "Yopal",
+        "label": "Yopal"
+    },
+    {
+        "value": "Fusagasugá",
+        "label": "Fusagasugá"
+    },
+    {
+        "value": "Rionegro",
+        "label": "Rionegro"
+    },
+    {
+        "value": "Cartago",
+        "label": "Cartago"
+    },
+    {
+        "value": "Pitalito",
+        "label": "Pitalito"
+    },
+    {
+        "value": "Quibdó",
+        "label": "Quibdó"
+    },
+    {
+        "value": "Girardot",
+        "label": "Girardot"
+    },
+    {
+        "value": "Ciénaga",
+        "label": "Ciénaga"
+    },
+    {
+        "value": "Malambo",
+        "label": "Malambo"
+    },
+    {
+        "value": "Mosquera",
+        "label": "Mosquera"
+    },
+    {
+        "value": "Duitama",
+        "label": "Duitama"
+    },
+    {
+        "value": "Magangué",
+        "label": "Magangué"
+    },
+    {
+        "value": "Maicao",
+        "label": "Maicao"
+    },
+    {
+        "value": "Apartadó",
+        "label": "Apartadó"
+    },
+    {
+        "value": "Uribia",
+        "label": "Uribia"
+    },
+    {
+        "value": "Piedecuesta",
+        "label": "Piedecuesta"
+    },
+    {
+        "value": "Facatativá",
+        "label": "Facatativá"
+    },
+    {
+        "value": "Guadalajara de Buga",
+        "label": "Guadalajara de Buga"
+    },
+    {
+        "value": "Santander de Quilichao",
+        "label": "Santander de Quilichao"
+    },
+    {
+        "value": "Turbaco",
+        "label": "Turbaco"
+    },
+    {
+        "value": "Sogamoso",
+        "label": "Sogamoso"
+    },
+    {
+        "value": "Madrid",
+        "label": "Madrid"
+    },
+    {
+        "value": "Aguachica",
+        "label": "Aguachica"
+    },
+    {
+        "value": "Sabanalarga",
+        "label": "Sabanalarga"
+    },
+    {
+        "value": "Chía",
+        "label": "Chía"
+    },
+    {
+        "value": "Arauca",
+        "label": "Arauca"
+    },
+    {
+        "value": "Funza",
+        "label": "Funza"
+    },
+    {
+        "value": "Sabaneta",
+        "label": "Sabaneta"
+    },
+    {
+        "value": "Copacabana",
+        "label": "Copacabana"
+    },
+    {
+        "value": "San Andrés",
+        "label": "San Andrés"
+    },
+    {
+        "value": "La Estrella",
+        "label": "La Estrella"
+    },
+    {
+        "value": "San José del Guaviare",
+        "label": "San José del Guaviare"
+    },
+    {
+        "value": "Mocoa",
+        "label": "Mocoa"
+    },
+    {
+        "value": "Cajicá",
+        "label": "Cajicá"
+    },
+    {
+        "value": "La Jagua de Ibirico",
+        "label": "La Jagua de Ibirico"
+    },
+    {
+        "value": "Leticia",
+        "label": "Leticia"
+    },
+    {
+        "value": "La Virginia",
+        "label": "La Virginia"
+    },
+    {
+        "value": "Mitú",
+        "label": "Mitú"
+    },
+    {
+        "value": "Inírida",
+        "label": "Inírida"
+    },
+    {
+        "value": "Puerto Carreño",
+        "label": "Puerto Carreño"
+    }
+]
